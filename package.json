@@ -1,0 +1,20 @@
+{
+  "name": "react-loader-sc",
+  "description": "A lightweight loader using styled-components providing a material spinner as loading indicator.",
+  "author": {
+    "name": "Manuel Penaloza",
+    "email": "manuel.penaloza@gmx.at"
+  },
+  "keywords": [
+    "loader",
+    "spinner",
+    "loading indicator"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^1.4.4"
+  },
+  "peerDependencies": {
+    "react": "^15.4.2"
+  }
+}
