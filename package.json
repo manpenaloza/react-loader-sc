@@ -1,6 +1,6 @@
 {
   "name": "react-loader-sc",
-  "description": "A lightweight loader using styled-components providing a material spinner as loading indicator.",
+  "description": "A lightweight React loader using styled-components providing a material spinner as loading indicator.",
   "author": {
     "name": "Manuel Penaloza",
     "email": "manuel.penaloza@gmx.at"
